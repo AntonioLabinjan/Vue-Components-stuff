@@ -1,5 +1,3 @@
----
-
 # Zadatak za vježbu: Vue Task Tracker
 
 **Cilj:** Izraditi modularnu aplikaciju za upravljanje zadacima koja koristi hijerarhiju komponenti, dvosmjernu komunikaciju i fleksibilne slotove.
